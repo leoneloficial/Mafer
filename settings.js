@@ -17,7 +17,7 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
   ['573025775900', '🜲 Propietario 🜲', true],
-  [''],
+  ['393715279301'],
   [''],
   ['']
 ];
