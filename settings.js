@@ -41,12 +41,12 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【 🦋 ~ 𝐒𝐡𝐢𝐧𝐨𝐛𝐮 𝐊𝐨𝐜𝐡𝐨 ~ 🦋 】'
-global.botname = '【 🦋 ~ 𝐒𝐡𝐢𝐧𝐨𝐛𝐮 𝐊𝐨𝐜𝐡𝐨 ~ 🦋 】'
-global.wm = '【 🦋 ~ 𝐒𝐡𝐢𝐧𝐨𝐛𝐮 𝐊𝐨𝐜𝐡𝐨 ~ 🦋 】'
+global.packname = 'BRZ-Bot 👾'
+global.botname = 'BRZ-Bot 👾 '
+global.wm = 'BRZ-Bot 👾'
 global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = '【 🦋 𝐒𝐡𝐢𝐧𝐨𝐛𝐮 𝐊𝐨𝐜𝐡𝐨 🦋 】 • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.textbot = 'BRZ-Bot 👾 • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
