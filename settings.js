@@ -44,10 +44,10 @@ global.yukiJadibts = true
 global.packname = 'BRZ-Bot 👾'
 global.botname = 'BRZ-Bot 👾 '
 global.wm = 'BRZ-Bot 👾'
-global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'BRZ-Bot 👾 • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.author = 'Made By YOYO-Bot'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YOYO-Bot'
+global.textbot = 'BRZ-Bot 👾 • Powered By YOYO-Bot'
+global.etiqueta = 'YOYO-Bot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
